@@ -10,3 +10,6 @@ print "good evening to all"
 #call the function in fibo series and print date
 
 #create student object and call the method
+
+
+#Create one more student object and call the method
