@@ -15,3 +15,5 @@ print msg
 
 
 #Create one more student object and call the method
+
+#Enter a variable
