@@ -4,7 +4,8 @@
 
 print "Good Morning"
 
-print "good night to all"
+msg = "good night to all"
+print msg
 
 
 #call the function from date.py and print date
