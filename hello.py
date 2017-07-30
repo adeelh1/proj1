@@ -18,3 +18,5 @@ print msg
 #Create one more student object and call the method
 
 #call the function from module and print series
+
+#every number on the new line
