@@ -1,6 +1,7 @@
 #import date
 #import function
 #import the module student
+#import a fibo module
 
 print "Good Morning"
 
@@ -15,3 +16,5 @@ print msg
 
 
 #Create one more student object and call the method
+
+#call the function from module and print series
