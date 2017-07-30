@@ -3,8 +3,8 @@
 #import the module student
 
 print "Good Morning"
-
-print "good evening to all"
+msg = "Good evening to all"
+print msg
 
 #call the function from date.py and print date
 #call the function in fibo series and print date
